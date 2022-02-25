@@ -6,7 +6,9 @@
 ## 108 學年度大專校院僑生人數
 >每年都有來自不同國家的僑生到台灣學習,而其中僑生就佔據了台灣大專校院的1%,那其中最多人的是什麼國家,最多僑生的學校又是那一間,以及僑生學士和碩博的比例為何等
 
-![1](https://github.com/jas0821/NCTU_DataVisualizationAndVisualAnalytics/blob/master/108%20(2019-2020)%20%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%B0%88%E6%A0%A1%E9%99%A2%E5%83%91%E7%94%9F%E4%BA%BA%E6%95%B8/README_img/1.jpg?raw=true "1"）
+
+![1](
+https://github.com/jas0821/NCTU_DataVisualizationAndVisualAnalytics/blob/master/108%20(2019-2020)%20%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%B0%88%E6%A0%A1%E9%99%A2%E5%83%91%E7%94%9F%E4%BA%BA%E6%95%B8/README_img/1.jpg?raw=true "1")
 
 首先先來看一下我們最關心的大學人口其中1%的僑生佔最多的大學
 台大
